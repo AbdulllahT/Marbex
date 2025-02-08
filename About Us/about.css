@@ -1,0 +1,46 @@
+.img-h-1{
+    width: 65px;
+    height: 60px;
+    border-radius: 30px;
+    margin-right: 90px;
+}
+
+
+.about-us {
+    background-color: #f8f9fa; /* Light background to match the overall vibe */
+    color: #333333; /* Dark text for readability */
+  }
+  
+  .profile-img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%; /* Circular image */
+    border: 4px solid #ffc107; /* Highlighted border to match theme */
+    object-fit: cover;
+  }
+  
+  .about-us h2 {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #212529;
+  }
+  
+  .about-text {
+    font-size: 1.1rem;
+    line-height: 1.8;
+    margin-bottom: 1.5rem;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .about-text .highlight {
+    color: #ffc107; /* Highlight Marbex name */
+    font-weight: bold;
+  }
+  
+  .owner-note {
+    font-style: italic;
+    color: #555; /* Slightly lighter color for a subtle effect */
+  }
+  
