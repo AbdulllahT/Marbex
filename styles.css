@@ -1,0 +1,184 @@
+.img-h-1{
+    width: 65px;
+    height: 60px;
+    border-radius: 30px;
+    margin-right: 90px;
+}
+
+.carousel-item img {
+    height: 500px; /* Adjust as needed */
+    object-fit: cover; /* Ensures images fill the space */
+  }
+  
+.card{
+    margin-top: 30px;
+}
+.cards{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+
+
+/* ------------featured Products-------- */
+
+.featured-products {
+    background-color: #f9f9f9;
+  }
+  
+  .featured-products h2 {
+    font-size: 2rem;
+    color: #333;
+    font-weight: bold;
+  }
+  
+  .card {
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    border: none;
+  }
+  
+  .card:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s ease;
+  }
+  
+  .card-title {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #555;
+  }
+  
+  .card-text {
+    color: #777;
+  }
+
+  /* ------------- testomonials------------- */
+  .testimonials {
+    background-color: #f9f9f9;
+  }
+  
+  .testimonials h2 {
+    font-size: 2rem;
+    color: #333;
+    font-weight: bold;
+  }
+  
+  .card {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+  }
+  
+  .img-test {
+    width: 80px;
+    height: 80px;
+    border-radius: 60px;
+    object-fit: cover;
+    border: 3px solid #ddd;
+  }
+  
+  .card-title {
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: #555;
+  }
+  
+  .card-text {
+    font-size: 0.95rem;
+    color: #777;
+  }
+  
+.row.mt-4 .card img {
+    width: 60px; 
+    height: 60px;
+    object-fit: cover;
+    border: 3px solid #ddd; 
+    margin-bottom: 0.5rem;
+  }
+  
+  .row.mt-4 .card-title {
+    font-size: 1rem; 
+    font-weight: bold;
+  }
+  
+  .row.mt-4 .card-text {
+    font-size: 0.85rem; 
+    color: #555; 
+  }
+  
+  .row.mt-4 .card {
+    padding: 1rem; 
+    border-radius: 8px;
+  }
+  
+  /* <!-- ---------------------------WHY CHOOSE US SECTION-------------------- --> */
+  .icon-box {
+    width: 120px; 
+    height: 120px; 
+    margin: 0 auto 1.5rem;
+    border-radius: 50%;
+    overflow: hidden; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .icon-box img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; 
+  }
+
+  /* <!-- ------------------------------FOOTER---------------------- --> */
+
+  .footer {
+    background-color: #212529; /* Dark background color */
+    color: #ffffff; /* White text */
+  }
+  
+  .footer h5 {
+    font-weight: bold;
+    margin-bottom: 1rem;
+  }
+  
+  .footer ul {
+    padding: 0;
+    list-style: none;
+  }
+  
+  .footer ul li {
+    margin-bottom: 0.5rem;
+  }
+  
+  .footer ul li a:hover {
+    color: #ffc107; /* Highlight color for links on hover */
+  }
+  
+  .footer p {
+    line-height: 1.8;
+  }
+  
+  .footer .fas {
+    margin-right: 0.5rem;
+    color: #ffc107; /* Icon color */
+  }
+  
+  .footer hr {
+    border-color: rgba(255, 255, 255, 0.2);
+  }
+  
+  .footer .text-center p {
+    margin: 0;
+    font-size: 0.9rem;
+    color: #bbbbbb; /* Lighter color for copyright text */
+  }
+  
+  
+  
+  
+
+  
