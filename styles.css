@@ -6,8 +6,8 @@
 }
 
 .carousel-item img {
-    height: 500px; /* Adjust as needed */
-    object-fit: cover; /* Ensures images fill the space */
+    height: 500px; 
+    object-fit: cover; 
   }
   
 .card{
@@ -136,8 +136,8 @@
   /* <!-- ------------------------------FOOTER---------------------- --> */
 
   .footer {
-    background-color: #212529; /* Dark background color */
-    color: #ffffff; /* White text */
+    background-color: #212529; 
+    color: #ffffff; 
   }
   
   .footer h5 {
@@ -155,7 +155,7 @@
   }
   
   .footer ul li a:hover {
-    color: #ffc107; /* Highlight color for links on hover */
+    color: #ffc107; 
   }
   
   .footer p {
@@ -164,7 +164,7 @@
   
   .footer .fas {
     margin-right: 0.5rem;
-    color: #ffc107; /* Icon color */
+    color: #ffc107; 
   }
   
   .footer hr {
@@ -174,7 +174,7 @@
   .footer .text-center p {
     margin: 0;
     font-size: 0.9rem;
-    color: #bbbbbb; /* Lighter color for copyright text */
+    color: #bbbbbb; 
   }
   
   
